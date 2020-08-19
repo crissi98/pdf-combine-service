@@ -4,7 +4,7 @@ This project combines two pdf-documents. It can append the documents so one docu
 start after all the pages of the fist document, and it can also combine these documents so the two documents are merged 
 which is helpful if you have two scan-files, one containing the front pages and the other containing the back pages.
 
-##About Quarkus
+## About Quarkus
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
